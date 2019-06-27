@@ -1,0 +1,6 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform/
+global/s3/.terraform/*
+
