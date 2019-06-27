@@ -1,6 +1,3 @@
-**/.terraform/*
+.terraform
 *.tfstate
-*.tfstate.*
-.terraform/
-global/s3/.terraform/*
-
+*.tfstate.backup
